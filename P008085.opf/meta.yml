@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14641
   title: གསུང་འབུམ། དགེ་འདུན་ཆོས་སྐྱོང་རྒྱ་མཚོ།
-  volume: ''
+  volume:
+    3eab1b72896f421f96216a80c3ccc2ec:
+      image_group_id: I1KG14645
+      title: Volume 1 of gsung 'bum/_dge 'dun chos skyong rgya mtsho/
+      volume_number: 1
+      total_pages: 623
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། དགེ་འདུན་ཆོས་སྐྱོང་རྒྱ་མཚོ།
+  author: ''
+  sku: P008085
+  cover: cover.jpg
+  layers:
+  - pagination
